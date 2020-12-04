@@ -27,7 +27,7 @@ class ofApp : public ofBaseApp{
 		ofFbo second_fbo;
 		ofFbo third_fbo;
 		ofFbo fourth_fbo;
-
+		float a, b;
 		bool showGuide;
 
 		ofVideoPlayer vid;

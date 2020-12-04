@@ -5,6 +5,7 @@ void ofApp::setup() {
 	ofSetBackgroundColor(250, 128, 114);
 	vid.load("video.mp4");
 	vid.play();
+
 	first_fbo.allocate(1920, 1080);
 	second_fbo.allocate(1920, 1080);
 	third_fbo.allocate(1920, 1080);
@@ -19,10 +20,13 @@ void ofApp::setup() {
 	bezManager.loadSettings();
 	change = false;
 	back = true;
+
 }
 
 //--------------------------------------------------------------
 void ofApp::update() {
+	a = 1920 + 1920*cos(ofGetElapsedTimef());
+	b = 1080 + 1080*cos(ofGetElapsedTimef());
 	vid.update();
 }
 
@@ -32,19 +36,23 @@ void ofApp::draw() {
 	ofClear(250, 128, 114);
 	if (change == false&&back == true) {
 		first_fbo.begin();
-		vid.draw(0, 0, 1920, 1080);
+		ofSetColor(0, 0, 255);
+		vid.draw(0, 0, a, b);
 		first_fbo.end();
 
 		second_fbo.begin();
-		vid.draw(0, 0, 1920, 1080);
+		ofSetColor(255, 0, 0);
+		vid.draw(0, 0, a, b);
 		second_fbo.end();
 
 		third_fbo.begin();
-		vid.draw(0, 0, 1920, 1080);
+		ofSetColor(0, 255, 0);
+		vid.draw(0, 0, a, b);
 		third_fbo.end();
 
 		fourth_fbo.begin();
-		vid.draw(0, 0, 1920, 1080);
+		ofSetColor(255, 255, 0);
+		vid.draw(0, 0, a, b);
 		fourth_fbo.end();
 
 		bezManager.draw();
