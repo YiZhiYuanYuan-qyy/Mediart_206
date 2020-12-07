@@ -1,0 +1,16 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\libs\ofxCv\include\ofxCv\Tracker.h(326,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\src\ofApp.cpp(47,23): warning C4018: “<”: 有符号/无符号不匹配
+  example-contours-color.vcxproj -> D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\bin\example-contours-color_debug.exe
+  
+  	                   2	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *多余文件   		 6018560	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\bin\FreeImage.dll
+  	  *多余文件   		  147968	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\bin\libusb-1.0.dll
+  
+  	                   1	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *多余文件   		 1266176	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\bin\fmodex.dll
+  	  *多余文件   		 1312768	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\bin\fmodexL.dll
+  	  *多余文件   		  147968	D:\Ztest\of_v20201207_vs2017_nightly\of_v20201207_vs2017_release\addons\ofxCv\example-contours-color\bin\libusb-1.0.dll
