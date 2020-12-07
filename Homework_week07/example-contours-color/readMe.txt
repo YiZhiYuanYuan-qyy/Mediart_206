@@ -1,0 +1,1 @@
+Click hands to set skin color as target color!
