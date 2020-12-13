@@ -1,0 +1,61 @@
+﻿  main.cpp
+  ofApp.cpp
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvContourFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+  ofxCvShortImage.cpp
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\mat.hpp(1965,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\addons\ofxOpenCv\libs\opencv\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp)
+videoInputD.lib(videoInput.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 bin\cameraLensOffsetExample_debug.lib 和对象 bin\cameraLensOffsetExample_debug.exp
+  cameraLensOffsetExample.vcxproj -> D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\examples\3d\cameraLensOffsetExample\bin\cameraLensOffsetExample_debug.exe
+  此时不应有 \of_v0.10.1_vs2017_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\*)。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: 命令“for /d %%f in (D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\libs\openFrameworksCompiled\project\vs\\..\..\..\..\\libs\*) do (if exist %%f\lib\vs\Win32\*.dll ( robocopy "%%f\lib\vs\Win32" "D:\Ztest\of_v0.10.1_vs2017_release (1)\of_v0.10.1_vs2017_release\examples\3d\cameraLensOffsetExample\bin" "*.dll" /njs /njh /np /fp /bytes ))
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: if errorlevel 1 exit 0 else exit %errorlevel%
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: :VCEnd”已退出，代码为 255。
